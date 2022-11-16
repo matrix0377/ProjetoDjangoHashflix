@@ -14,7 +14,7 @@
     - quantidade de viewes
     - data de criação
     - Episódios
-      - videos
+      - videos (link do video)
       - titulo
 
 - Barra de Pesquisa
