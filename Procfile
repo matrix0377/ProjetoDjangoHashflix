@@ -1,0 +1,1 @@
+web: python manage.y migrate && gunicorn hashflix:wsgi --log-file -
