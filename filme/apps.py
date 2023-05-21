@@ -1,5 +1,5 @@
 from django.apps import AppConfig
-
+import os # teste, apagar se nao resolver
 
 class FilmeConfig(AppConfig):
     default_auto_field = "django.db.models.BigAutoField"
